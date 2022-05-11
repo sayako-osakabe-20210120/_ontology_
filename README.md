@@ -13,7 +13,8 @@
 ├ folder_02 (for output code 02)  
 ├ folder_03 (for output code 03)  
 ├ folder_04 (for output code 04, 05, 07)  
-├ folder_05  (for output code 08, 09, 10, 11)  
+├ folder_05  (for output code 08, 09, 10, 11, 12)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ category.csv  
 
 #### previous versions
 -> ./old/{previous version file}
