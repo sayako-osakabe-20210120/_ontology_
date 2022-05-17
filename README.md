@@ -9,13 +9,16 @@
 ├ folder UMLS2021AB(downloaded UMLS data)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ MRFILES.RRF.gz  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ MRSTY.RRF.gz  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ MRCONSO.RRF.aa.gz  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ MRCONSO.RRF.ab.gz  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ SRFIL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ SRDEF  
 ├ folder_01 (for output code 01)  
 ├ folder_02 (for output code 02)  
 ├ folder_03 (for output code 03)  
 ├ folder_04 (for output code 04, 05, 07)  
 ├ folder_05  (for output code 08, 09, 10, 11, 12)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ category.csv  
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ category.csv 
 #### previous versions
 -> ./old/{previous version file}
  - 00_MeSH_xml.ipynb  
