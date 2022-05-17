@@ -40,7 +40,14 @@
 &nbsp;
  - 09_TFIDF_コサイン類似度計算_ネットワーク.ipynb  
    10_ベンチマークネットワークHPO作成.ipynb  
+   13_TFIDF_コサイン類似度計算_ネットワーク_all(uncut) pairs.ipynb   
 -> 04_ネットワーク作成.ipynb  
 &nbsp;
  - 11_２つのネットワークを比較.ipynb  
--> 05_ベンチマークネットワーク作成と比較.ipynb
+-> 05_ベンチマークネットワーク作成と比較.ipynb  
+&nbsp;
+ - 12_リンクがある疾患を臓器別に分類.ipynb  
+-> 20210915依頼_カットして残ったペアからHSDN作成_1966-最新_MeSH2021.ipynb  
+&nbsp;
+ - 14_semantic_mapping.ipynb  
+-> 06_2021AB.ipynb  
